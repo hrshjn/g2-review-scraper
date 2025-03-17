@@ -50,5 +50,4 @@ Thumbs.db
 *.log
 
 # Large data files
-# Uncomment if you don't want to commit CSV files
-# *.csv 
+*.csv 
